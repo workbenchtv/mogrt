@@ -5,6 +5,7 @@ mogrt.py is a script for conforming After Effects mogrts into a zip bundle for s
 `mogrt.py [-h] src_dir`
 
 Or you can use the following if you've modified your environment as I mention below:
+
 `mogrt [-h] src_dir`
 
 # Help
